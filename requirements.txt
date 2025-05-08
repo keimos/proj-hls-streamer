@@ -1,6 +1,9 @@
 # Dev environment
 pip
 autopep8
+fastapi
+uvicorn
+python-multipart
 
 # App
 flask
